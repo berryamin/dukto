@@ -2,6 +2,8 @@ Which releases is the most up to date for dukto ?
 
 <pre>
 
+https://www.msec.it/blog/dukto
+
 https://sourceforge.net/projects/dukto
 
 DuktoR6-Portable.zip	2013-03-03	9.9 MB	165
